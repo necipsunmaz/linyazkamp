@@ -39,7 +39,7 @@ while Nakit > 0:
 
     else:
         i -= 1
-
+#Ekstra metot
 """
 para = 100
 i = len(sorted_x) - 1
